@@ -1,0 +1,4 @@
+echo [build] > netlify.toml
+echo   command = "hugo" >> netlify.toml
+echo   publish = "public" >> netlify.toml
+echo   HUGO_VERSION = "0.123.0" >> netlify.toml
