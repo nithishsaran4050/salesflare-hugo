@@ -1,0 +1,25 @@
+{
+  "name": "salesflare-hugo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "build:css": "sass salesflare-source/sass/:static/css/"  
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithishsaran4050/salesflare-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nithishsaran4050/salesflare-hugo/issues"
+  },
+  "homepage": "https://github.com/nithishsaran4050/salesflare-hugo#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.86.3"
+  }
+}
